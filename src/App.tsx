@@ -1,7 +1,7 @@
-import Hello from '~/components/Hello';
+import { GamePage } from './pages/GamePage';
 
 function App() {
-  return <Hello />;
+  return <GamePage />;
 }
 
 export default App;
